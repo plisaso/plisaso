@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">A passionate Computer science and Cybersecurity</h3>
 
-<p align="left"> <a href="https://twitter.com/plisaso" target="blank"><img src="https://img.shields.io/twitter/follow/plisaso?logo=twitter&style=for-the-badge" alt="plisaso" /></a> </p>
+<p align="left"> <a href="https://twitter.com/plisaso" target="blank"><img src="https://img.shields.io/twitter/follow/plisaso?logo=X&style=for-the-badge" alt="plisaso" /></a> </p>
 
 - 🔭 I’m currently studying on [UNED](https://www.uned.es)
 
