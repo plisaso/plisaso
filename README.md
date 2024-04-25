@@ -40,8 +40,8 @@
 -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plisaso&show_icons=true&locale=es&layout=compact" alt="plisaso" /></p>
+<p><img align="left" src="https://github-readme-stats.lisaso.es/api/top-langs?username=plisaso&show_icons=true&locale=es&layout=compact" alt="plisaso" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plisaso&show_icons=true&locale=es" alt="plisaso" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.lisaso.es/api?username=plisaso&show_icons=true&locale=es" alt="plisaso" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plisaso&" alt="plisaso" /></p>
