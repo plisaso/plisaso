@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.lisaso.es/api?username=plisaso&show_icons=true&locale=es" alt="plisaso" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plisaso&" alt="plisaso" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=plisaso&theme=swift&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&card_width=800&type=png" alt="plisaso" /></p>
